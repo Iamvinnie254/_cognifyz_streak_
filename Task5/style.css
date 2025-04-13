@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#posts-container {
+  display: grid;
+  gap: 20px;
+}
+
+.post {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.post h2 {
+  margin-top: 0;
+  font-size: 1.2em;
+}
