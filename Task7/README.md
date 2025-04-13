@@ -1,0 +1,3 @@
+-successfully integrated bootstrap css to an online bootstrap website template. The template or rather the website is a personal portfolio. 
+-There is consistence throughout the webpage in that the colors are well blended and the flow the website is as well captivating to the end user and the second and third parties interacting with the website.
+-The endgoal of the task is fully met in implementing a CSS framework in a project.
