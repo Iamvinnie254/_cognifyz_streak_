@@ -43,7 +43,7 @@ document
       });
       document.getElementById("error-messages").innerHTML = errorMessages;
     } else {
-      // If no errors, submit the form (for demo purposes, we'll just log it)
+      // 
       console.log("Form submitted successfully!");
       alert("Form submitted successfully!");
     }
