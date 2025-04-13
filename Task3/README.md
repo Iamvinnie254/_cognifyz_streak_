@@ -1,0 +1,1 @@
+- This task is all about testing for a webpage responsiveness using media queries in an external stylesheet
