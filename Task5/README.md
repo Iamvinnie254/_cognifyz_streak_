@@ -1,0 +1,3 @@
+**About this project**
+
+The implementation fetches real-time data from the Dev.to API, which provides a list of recent articles written by developers. It uses JavaScript's fetch() function to retrieve a JSON response containing article details such as title, description, and a link to the full article. The articles are then dynamically displayed on the webpage by creating HTML elements for each article and appending them to the page. This process allows for dynamic, up-to-date content to be shown without reloading the page. Error handling ensures that if the data fetch fails, a message is displayed.
