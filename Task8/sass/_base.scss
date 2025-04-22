@@ -1,0 +1,13 @@
+body{
+    font-family: $font-stack;
+    color:$text-color;
+    margin:0;
+    padding:0;
+    background:#f4f4f4f4;
+}
+
+h1, h2{
+    color:$primary-color;
+    margin-bottom:10px;
+    
+}

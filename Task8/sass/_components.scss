@@ -1,0 +1,19 @@
+.header{
+    background: $secondary-color;
+    color: white;
+    padding:20px;
+    text-align: center;
+}
+.buttton{
+    background:$primary-color;
+    border:none;
+    padding:10px 20px;
+    color:white;
+    cursor: pointer;
+    border-radius: 4px;
+
+    &:hover{
+        background:darken($primary-color,10%)
+    }
+
+}
